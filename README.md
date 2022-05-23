@@ -1,1 +1,1 @@
-this is my first projects
+This is my first project on school
